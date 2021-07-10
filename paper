@@ -1,0 +1,110 @@
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/shop.png" />
+                    <p>Marketplace</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/small/64/000000/activity-grid-2.png" />
+                    <p>Aggregation</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/barn.png" />
+                    <p>Farm Management</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/treasure-map.png" />
+                    <p>Farm Mapper</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/bonds.png" />
+                    <p>Structured Finance</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/company.png" />
+                    <p>Insurance</p>
+                </div>
+                <div class="grid justify-items-center">
+                    <img src="https://img.icons8.com/ios/64/000000/scatter-plot.png" />
+                    <p>Technology & Data</p>
+                </div>
+
+
+
+        <section class="my-16">
+            <div>
+                <div class="my-5">
+                    <h2 class="md:text-4xl">The Revemi Way</h2>
+                </div>
+                <div class="md:my-5">
+                    <div class="my-5 md:w-9/12">
+                       <p>The Revemi Way is our approach to creating a world-class, multinational agriculture company. Driven by the highest level of governance, it is embedded in our corporate culture and guides our approach to building a prosperous and sustainable business.</p> 
+                    </div>
+                    <div class="my-10 md:flex justify-between md:mx-60">
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/ios/64/000000/shop.png" />
+                            <p>Marketplace</p>
+                        </div>
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/small/64/000000/activity-grid-2.png" />
+                            <p>Aggregation</p>
+                        </div>
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/ios/64/000000/barn.png" />
+                            <p>Farm Management</p>
+                        </div>
+                    </div>
+                    <div class="my-10 md:flex justify-between md:mx-60">
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/ios/64/000000/shop.png" />
+                            <p>Marketplace</p>
+                        </div>
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/small/64/000000/activity-grid-2.png" />
+                            <p>Aggregation</p>
+                        </div>
+                        <div class="grid justify-items-center">
+                            <img src="https://img.icons8.com/ios/64/000000/barn.png" />
+                            <p>Farm Management</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="my-16">
+            <h2 class="md:text-4xl">Value Chain</h2>
+            <div>
+                <p>Production</p>
+            </div>
+            <div>
+                <p>Processing</p>
+            </div>
+            <div>
+                <p>Storage</p>
+            </div>
+            <div>
+                <p>Distribution</p>
+            </div>
+            <div>
+                <p>Marketing</p>
+            </div>
+            <div>
+                <p>Consumer / End Market</p>
+            </div>
+            <div>
+                <p>Information Sharing</p>
+            </div>
+        </section>
+
+
+
+                <section class="my-16">
+            <h2 class="md:text-4xl">Contact Us</h2>
+            <address>
+                Email: <a href="mailto:revemitrade@gmail.com">Oreva Amata</a>.<br>
+                Visit us at:<br>
+                Millenium City Center Estate Gbagada Lagos<br>
+                Nigeria
+            </address>
+        </section>
+
+
+        
